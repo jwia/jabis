@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">LiaWakeUp</string>
+	<string name="off">꺼짐</string>
+	<string name="wakeup">일어나!!!</string>
+	<string name="no_playing">현재 알람이 울리지 않고 있습니다.</string>
+</resources>
